@@ -77,7 +77,6 @@ if __name__ == "__main__":
 
     reports = evaluate_reports_state(reports)
 
-
     safe_report_counter = 0
 
     for report in reports:
