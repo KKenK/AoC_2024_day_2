@@ -1,5 +1,4 @@
 from input_parser import InputParser
-import copy
 
 class Report():
     def __init__(self, levels):
